@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+project1/data/stl10_binary
+project2/data/
+project2/plots_and_figures
+
+.vscode
+*/.vscode/*
